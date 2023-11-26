@@ -34,7 +34,8 @@ class _LoadingState extends State<Loading> {
     return const Scaffold(
         backgroundColor: Color.fromARGB(255, 37, 41, 42),
         body: Center(
-          child: SpinKitCubeGrid(
+          
+          child:SpinKitCubeGrid(
             color: Color.fromARGB(255, 239, 138, 138),
             size: 80.0,
           ),

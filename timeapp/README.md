@@ -1,6 +1,6 @@
 # timeapp
 
-A Flutter app project for displaying the time of places.
+A Flutter app project for displaying the time of places which was built entirely in Dart
 
 ## Getting Started
 
